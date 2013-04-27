@@ -1,0 +1,1 @@
+Sample of promise and async
